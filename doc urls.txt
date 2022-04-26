@@ -1,0 +1,4 @@
+https://www.thisdot.co/blog/build-an-api-gateway-with-nestjs-in-10-minutes
+
+https://levelup.gitconnected.com/nestjs-microservices-with-grpc-api-gateway-and-authentication-part-1-2-650009c03686
+https://levelup.gitconnected.com/nestjs-microservices-with-grpc-api-gateway-and-authentication-part-2-2-d67dc8e3b86a
