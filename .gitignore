@@ -2,3 +2,4 @@ gateway/dist/*
 gateway/node_modules/*
 services/service-crud/dist/*
 services/service-crud/node_modules/*
+node_modules/*
